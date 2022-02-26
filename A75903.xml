@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The advance of Sir Arthur Hasilrigg, from the garrison of Portsmouth, toward the city of London and his letter to the Lord Mayor, aldermen, and Commoun Council. Also, the number both of horse and foot; the names of the regiments revolted from the Army; together with the Isle of Wight and most of the castles thereabouts. Likewise, the answer agreed upon by the Lord Mayor, aldermen, and Common Council at Guild-Hall yesterday, and the names of the commissioners, sent to Sir Arthur Hasilrigg, and Vice-Admiral Lawson, to communicate the sense of the city.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75903</idno>
+            <idno type="STC">Wing A600B</idno>
+            <idno type="STC">ESTC R16545</idno>
+            <idno type="EEBO-CITATION">99895794</idno>
+            <idno type="PROQUEST">99895794</idno>
+            <idno type="VID">153380</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75903)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153380)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2361:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The advance of Sir Arthur Hasilrigg, from the garrison of Portsmouth, toward the city of London and his letter to the Lord Mayor, aldermen, and Commoun Council. Also, the number both of horse and foot; the names of the regiments revolted from the Army; together with the Isle of Wight and most of the castles thereabouts. Likewise, the answer agreed upon by the Lord Mayor, aldermen, and Common Council at Guild-Hall yesterday, and the names of the commissioners, sent to Sir Arthur Hasilrigg, and Vice-Admiral Lawson, to communicate the sense of the city.</title>
+                  <author>Hesilrige, Arthur, Sir, d. 1661.</author>
+                  <author>Lawson, John, Sir, d. 1665.</author>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hesilrige, Arthur, --  Sir, d. 1661 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153380:1"/>
+            <p>THE ADVANCE OF Sir Arthur Haſilrigg, <hi>FROM</hi> The Garriſon of <hi>Portſmouth,</hi> toward the City of <hi>LONDON:</hi> And His Letter to the Lord Mayor, Aldermen, and Commoun Council.</p>
+            <p>Alſo, the Number both of Horſe and Foot; the Names of the Regiments revolted from the <hi>Army;</hi> together with the Iſle of <hi>Wight,</hi> and moſt of the Caſtles thereabouts.</p>
+            <p>Likewiſe, the Anſwer agreed upon by the Lord Mayor, Aldermen, and Common Council at Guild-Hall yeſterday, and the Names of the Commiſſioners, ſent to Sir <hi>Arthur Haſilrigg,</hi> and Vice-Admiral <hi>Lawſon,</hi> to communicate the Senſe of the CITY.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>GEORGE HORTON</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153380:2"/>
+            <pb n="3" facs="tcp:153380:2"/>
+            <p>THE great Hand of Providence having in a moſt high and wonderful manner appeared in the Iſſue of theſe late Changes, Overturnings, and Confuſions; and in the midſt of our great Fears, Dangers, and Calamities, miraculouſly to work and point out a ſignal Deliverance for theſe diſtracted languiſhing, and, woful afflicted Nations; by raiſing up ſome no<g ref="char:EOLhyphen"/>ble and faithful Patriots, true ſpirited <hi>Engliſh</hi> men, and renow<g ref="char:EOLhyphen"/>ned Aſſertors of the peoples Rights, Liberties, and Freedoms, ſtanding up in this great Day of <hi>Englands</hi> Tryal and Trouble, even in the very Gap and Gulph of Deſolation threatning the inevitable Ruine of many Thouſands, who deſired nothing more then a true ſettlement of the publique peace, upon a firm Baſis, and irremovable Foundation, of Truth and Righteouſ<g ref="char:EOLhyphen"/>neſs, and to preſerve a good Conſcience, in caſting off thoſe ig<g ref="char:EOLhyphen"/>nominious Reproaches, of breach of Faith to their Repreſenta<g ref="char:EOLhyphen"/>tives.</p>
+            <p>And thereupon divers Honourable Members of Parliament, being ſpirited to ſtand firm for the Intereſt of this Common<g ref="char:EOLhyphen"/>wealth, (being warranted in their preſent actings, by eſpecial Commiſſion and Authority from the Council of State) unani<g ref="char:EOLhyphen"/>mouſly declared their Reſolutions and Concurrence, to hazard <hi>All,</hi> even Lives and Fortunes, for reſtoring of the Parliament and People to their ancient Rights, and undoubted Freedoms: In purſuance whereof, it pleaſed God to raiſe up Deliverers, both by Sea and Land, having by admirable providence put an opportunity into the hands of General <hi>Monck,</hi> a moſt able and experienced Commander of the Parliaments Army; Vice-Ad<g ref="char:EOLhyphen"/>miral <hi>Lawſon,</hi> Commander in chief of the Fleet under his im<g ref="char:EOLhyphen"/>mediate Conduct; and Colonel <hi>Whetham,</hi> Governour of <hi>Portſ<g ref="char:EOLhyphen"/>mouth;</hi> whoſe Actions and Undertakings have been ſo Honeſt and Honourable, as that they have given an abſolute Check to the Exorbitances of divers perfidious Apoſtates, who have wal<g ref="char:EOLhyphen"/>ked contrary to the Light of Knowledge, in theſe late and glo<g ref="char:EOLhyphen"/>rious
+<pb n="4" facs="tcp:153380:3"/> Diſpenſations, and ſo to become Inſtruments of ſome mens ambitions, by making the good people of <hi>England</hi> their Enemies and expoſing the Nation again to the hazard of a new War and inteſtine Troubles.</p>
+            <p>But bleſſed be God, theſe Clouds are extinguiſhing, and the black Vizards of theſe dark and obſcure Tyrannical Streams, be<g ref="char:EOLhyphen"/>gin to run and center in their proper Current: For, not onely Colonel <hi>Riches</hi> Regiment of Horſe have deſerted the Army, and returned to their former duty of obedience to the Parlia<g ref="char:EOLhyphen"/>ment, but alſo ſome of Colonel <hi>Berry</hi>'s Regiment of Horſe, in all Nine Troops; and ſeveral Companies of Companies of Colonel <hi>Lago</hi>'s Regiment of Foot are gone into <hi>Portſmouth,</hi> marching with Drums beating, and Golours flying, where they declared for the Parliament and their Reſolu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions (by the help of GOD) to ſtand by and aſſiſt them with their Lives and For<g ref="char:EOLhyphen"/>tunes, and to hazard all that is near and dear unto them, in de<g ref="char:EOLhyphen"/>defence of the Parliamen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and the ſecurity, ſervice, and peace of this Commonwealth.</p>
+            <p>Upon the coming in of the ſaid Nine Troops, and five Com<g ref="char:EOLhyphen"/>panies of Foot, Sir <hi>Arthur Haſilrigg,</hi> Colonel <hi>Morley,</hi> Col. <hi>Walt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> and Colonel <hi>Whetham</hi> (the Governour) ſent out a party of Horſe and Foot to make a diſcovery of the remainder part of the Army; and having good intelligence amongſt them, and of their motion, upon their approach near, it pleaſed God the whole party came in, ſome few Officers onely excepted; ſo that the Siege was raiſed, and the Town at liberty, without a drop of bloud.</p>
+            <p>The Town is very ſtrong, and the Souldiery unanimous, Sir <hi>Arthur,</hi> and Col. <hi>Morley</hi> having behaved themſelves very gal<g ref="char:EOLhyphen"/>lantly.</p>
+            <p>This Weſtern Brigade being ſo providentially reduced to the Obedience of Parliament, 'tis ſaid, that ſeveral Regiments of Horſe and Foot are upon their march from <hi>Portſmouth</hi> toward <hi>London</hi> under the Conduct of Sir <hi>Arthur Haſilrigg,</hi> and other faithful Commanders; and that there are four Troops of Horſe, and four Companies of Foot raiſed in the Iſle of <hi>Wight,</hi> for the
+<pb n="5" facs="tcp:153380:3"/> ſervice of the Parliament: beſides, it is aſcertain'd, that two Troops of Horſe, and two Companies of Foot in the ſaid Iſland, have alſo revolted from the Army; and likewiſe <hi>Carisbrook</hi> Caſtle, <hi>Hurſt</hi> Caſtle and all the reſt of the Caſtles thereabouts, except <hi>Cowes</hi> Caſtle, which is blocked up, and a ſpeedy reduce<g ref="char:EOLhyphen"/>ment thereof is ſuddainly expect<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d.</p>
+            <p>For the carrying on of this great Work ſo happily begun, and for a timely delive<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ance of theſe almoſt deſtroyed Nations, it is the Duty of every Engliſh man to aſſiſt, that Poſterity may be happy under a Succeſſion of Parliamentary Authority, derived from a Civil, rather than a Military Foundation, from whence floweth nothing but unlimited and a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bitrary ſtreams. In or<g ref="char:EOLhyphen"/>der whereunto, a Letter hath been ſent from Sir <hi>Arthur Haſil<g ref="char:EOLhyphen"/>rigg,</hi> and the reſt of the Parliaments Commiſſioners at <hi>Portſ<g ref="char:EOLhyphen"/>mouth</hi> to the Right Honourable the Lord Mayor, Aldermen and Common Council of the City of <hi>London</hi> deſiring them to con<g ref="char:EOLhyphen"/>tribute their aid and aſſiſtance, for reſtoring of the Parliament, and ſetling the ancient Rights, Charters, Liberties, and Funda<g ref="char:EOLhyphen"/>mental priviledges of theſe Nations.</p>
+            <p>In purſuance whereof, Vice-admiral <hi>Lawſon</hi> hath alſo repre<g ref="char:EOLhyphen"/>ſented to his Lordſhip, the ſtate of affairs with the Fleet, impor<g ref="char:EOLhyphen"/>ting. That they were reſolved (through the Lords aſſiſtance) to ſtand to their <hi>Declaration,</hi> and with the hazard of their Lives and Fortunes, to endeavour the Re-eſtabliſhment of the Parlia<g ref="char:EOLhyphen"/>ment, interrupted the 13th of <hi>October,</hi> 1659. to the Exerciſe of their Truſt: Not doubting, but to find the aſſiſtance and concur<g ref="char:EOLhyphen"/>rence both of them and others, in this Undertaking and Reſo<g ref="char:EOLhyphen"/>lution: And in confidence of their Complyan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e herein, he aſſures them of all aſſiſtance for the advancement of the Trade, Free<g ref="char:EOLhyphen"/>dom and Safety of the City in particular, and the Nation in ge<g ref="char:EOLhyphen"/>neral.</p>
+            <p>Hereupon the Lord Mayor, Aldermen, and Common Coun<g ref="char:EOLhyphen"/>cil, aſſembled at Guild Hall, <hi>London,</hi> on <hi>Thurſday</hi> the Two and Twentieth of this inſtant <hi>December;</hi> where, after reading of the ſaid Letters, a Committee of Safety was choſe, who are forth<g ref="char:EOLhyphen"/>with to conſider thereof, and to return an an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r unto Vice-admiral
+<pb n="6" facs="tcp:153380:4"/> admiral <hi>Lawſon:</hi> as alſo unto that which came from the Com<g ref="char:EOLhyphen"/>miſſioners at <hi>Portſmouth.</hi>
+            </p>
+            <p>The ſaid Committee is alſo appointed to conſider of ſetling the Militia of the City, to the end, that the peace and ſafety ther<g ref="char:EOLhyphen"/>of may be inviolably preſerved, and the Exorbitancies of all per<g ref="char:EOLhyphen"/>ſons whatſoever (for the future) prevented. Which will be the onely means (under God) to prevent Confuſions and Deſola<g ref="char:EOLhyphen"/>tions, the ſad Companions of Civil Diſcords, and to eſtabliſh Peace and Truth throughout Her Confines; by putting a Check to ſuch ambitious and inſolent Spirits, who thirſted after the Treaſure of her Pavilions, and fain would have made her habita<g ref="char:EOLhyphen"/>ble places even as ſo many Thrones.</p>
+            <div type="part">
+               <opener>
+                  <dateline>Guild-Hall, London, <date>Decemb. 23.</date>
+                  </dateline>
+               </opener>
+               <p>This day the Lord Mayor, Aldermen, and Common Council, reſumed the debate of ſetling the Militia of the City, and re<g ref="char:EOLhyphen"/>ſolved upon ſeverall Officers of approved Truſt and Fidelity, there being a ſingular choice, by free Election, of ſuch Gentle<g ref="char:EOLhyphen"/>men, and perſons of quality, as do, and with God's aſſiſtance will always adhere to their former principles and Declarations, in the uſe of all lawful means for the maintainance of the true Re<g ref="char:EOLhyphen"/>formed Proteſtant Religion, the ſupport of a ſetled lawful Ma<g ref="char:EOLhyphen"/>giſtracy, the preſervation of a learned pious Miniſtry, the re<g ref="char:EOLhyphen"/>ſtoring of the ancient Fundamental Laws of the Nation, and the juſt Rights, Properties, and Liberties of the people.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Decemb. 23. Afternoon.</date>
+                  </dateline>
+               </opener>
+               <p>The Revolt of divers of the Army Forces in the Weſtern parts, is not one ratified by ſundry Teſtimonies from very good hands; but alſo a Confirmation of the advance of Sir <hi>Arthur Haſitrigg</hi> from <hi>Portſmouth,</hi> on Wedneſday laſt, with about five thouſand Horſe and Foot, leaving onely four hundred in the Gariſon.</p>
+               <pb n="7" facs="tcp:153380:4"/>
+               <p>They began their march about Ten of the Clock in the Fore<g ref="char:EOLhyphen"/>noon, and quartered that Night at <hi>Petersfield.</hi> The next mor<g ref="char:EOLhyphen"/>ning they began their march again, intending to quarter at <hi>Gil<g ref="char:EOLhyphen"/>ford</hi> on Friday Night: but whether the inclemency of the Sea<g ref="char:EOLhyphen"/>ſon, or the ſhorrneſs of time impedes them, a few hours will prove the onely Reſolve. In the mean time, no ſmall expe<g ref="char:EOLhyphen"/>ctations, but as high Conjectures, what Event theſe ſtrange Mu<g ref="char:EOLhyphen"/>tations will produce: Since that the Spirits of men are ex<g ref="char:EOLhyphen"/>treamly diſſatisfied and elevated, and poſſibly cannot be allayed, without a reſtauration of their long-loſt Trade, Liberties, and Freedoms; With which God of his infinite mercy crown theſe Nations.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <pb n="8" facs="tcp:153380:5"/>
+            <head>POSTSCRIPT.</head>
+            <p>THrough many delatory Expreſſions and Speeches, by ſome few perſons, the Honourab<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Court of Aldermen and Common-Councel of the City of <hi>London</hi> could not proceed to the Nomination of Officers for the Militia that Night; but reſolved to meet this preſent <hi>Saturday,</hi> and proceed to the Election of Colonels, and other Officers. A Report being made alſo of the ſenſe and ſubſtance of the Letters ſent from Sir <hi>Arthur Haſilrigg,</hi> and Vice-Admirall <hi>Lawſon;</hi> The ſaid Court reſolved upon an Anſwer to be retur<g ref="char:EOLhyphen"/>ned, Declaring, <hi>Their cordial Affections, to preſerve the peace and Safety of theſe Nations, and to acquieſce in ſuch things, as may be conſiſtent with the Glory of God, and the Rights, Priviledges, and Proprieties of the People.</hi> In purſuance whereof, Commiſſioners were choſen, to repreſent the Senſe of the City; the Names whereof are as followeth:
+<list>
+                  <item>To Sir <hi>Arthur Haſilrigg,</hi>
+                     <list>
+                        <item>Alderman <hi>Tompſon,</hi>
+                        </item>
+                        <item>Colonel <hi>Bromfield,</hi>
+                        </item>
+                        <item>Mr. <hi>Beard.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>To Vice-Admiral <hi>Lawſon</hi>
+                     <list>
+                        <item>Alderman <hi>Fowk;</hi>
+                        </item>
+                        <item>Mr. <hi>William Bateman,</hi>
+                        </item>
+                        <item>Mr. <hi>Jokey,</hi> Merchant.</item>
+                     </list>
+                  </item>
+                  <item>For <hi>White-Hall,</hi>
+                     <list>
+                        <item>Alderman <hi>Bateman,</hi>
+                        </item>
+                        <item>Mr. <hi>Vincent,</hi>
+                        </item>
+                        <item>Mr. <hi>Richard Foord,</hi> Merchant.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153380:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
